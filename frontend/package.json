@@ -1,5 +1,6 @@
 {
-      "name": "Cataract Detection Website",
+      "name": "cataract-detection-website",
+      "homepage": "./ECDS",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
